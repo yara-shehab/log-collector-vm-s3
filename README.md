@@ -1,0 +1,1 @@
+# log-collector-vm-s3
